@@ -1,2 +1,0 @@
-Hello World
-this is the practice for git and github with chai and code
